@@ -22,22 +22,3 @@
 	}
 ?>
 
-<!-- <?php
-
-$servername = "localhost";
-
-$username = "root"; 
-
-$password = ""; 
-
-$dbname = "test"; 
-
-$conn = new mysqli($firstName, $lastName, $gender, $email, $password, $number);
-
-if ($conn->connect_error) {
-
-    die("Connection failed: " . $conn->connect_error);
-
-}
-
-?> -->
